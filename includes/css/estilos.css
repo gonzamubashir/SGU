@@ -1,0 +1,41 @@
+#td{
+    font-weight: bold;
+    padding-right: 5px;
+    
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+p{
+    font-size: 1rem;
+    text-align: center;
+    color: black;
+    
+}
+a{
+    color: black;
+}
+div{
+    text-align: center;
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+footer{
+    margin-top: 10%;
+}
+#tabla{
+    position: relative;
+    top: 30px;
+    
+}
+h2{
+    position: relative;
+    top: 30px;
+}
+#pie{
+    text-align: center;
+}
+
+
